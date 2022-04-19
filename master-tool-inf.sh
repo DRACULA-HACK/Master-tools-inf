@@ -62,12 +62,12 @@ echo -e "
                    { IT'S ME MASTER-HACK }
 $rset
          $ylo      I am nidhin 
-         			my WhatsApp group : https://chat.whatsapp.com/IFrjxgUnaAy6lbCoJiEZ6b
-         			join for to study about Termux , Linux hacking
+           my WhatsApp group : https://chat.whatsapp.com/IFrjxgUnaAy6lbCoJiEZ6b
+         join for to study about Termux , Linux hacking
          			
-         			Iam hear to gave Same tools 
+         		Iam hear to gave Same tools 
    					
-                             more.
+                          more.
 "
 sleep 0.4
 echo -e "
