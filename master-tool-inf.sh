@@ -80,6 +80,7 @@ if [ "$help" = yes ];
 then
 echo -e " 
 $rset        $blue  What type of help you want ?
+
       (1) know about the info of the tools
       (2) information about T-load tool
       (3) Direct Install Tools
