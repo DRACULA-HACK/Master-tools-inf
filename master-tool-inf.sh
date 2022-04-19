@@ -20,9 +20,12 @@
 #             			and you can know about the tools which
 #						is on the script . this script is simple to use
 #						🙂🙂
+#
 #                        my github: https://github.com/DRACULA-HACK
+#
 #						contact: https://wa.me/+916235369260
-#						have a Nice Day ^_^
+#						
+#                                                     ^_^
 #
 clear
 
