@@ -82,7 +82,7 @@ echo -e "
 $rset        $blue  What type of help you want ?
 
       (1) know about the info of the tools
-      (2) information about T-load tool
+      (2) to modify your termux terminal
       (3) Direct Install Tools
 "
 echo -e "
