@@ -6,7 +6,7 @@ Install Same tools and you can know about the tools
 In this tool Kali Nethunter is ther for android.
 
 
-# INSTITUTION
+# Installing commands for termux
 
 
 
