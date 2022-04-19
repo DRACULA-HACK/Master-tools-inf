@@ -70,7 +70,7 @@ $rset
          🙂🙂
              my github: https://github.com/DRACULA-HACK
 	contact: https://wa.me/+916235369260
-		have a Nice Day ^_^
+	                ^_^
          			
          		Iam hear to gave Same tools 
    					
