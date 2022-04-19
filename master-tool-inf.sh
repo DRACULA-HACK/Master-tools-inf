@@ -25,7 +25,7 @@
 #
 #						contact: https://wa.me/+916235369260
 #						
-#                                                     ^_^
+#                                                 
 #
 clear
 
